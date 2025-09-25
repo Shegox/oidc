@@ -1,6 +1,6 @@
 {
-  "name": "lerna-lite-test",
-  "private": true,
+  "name": "@shegox-test-org/npm-demo-test",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
