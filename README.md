@@ -6,6 +6,7 @@ Please be sure to always follow the latest guidance from npm directly regarding 
 
 https://docs.npmjs.com/trusted-publishers
 
+
 Here is how the example package that gets published from this repo's GitHub Actions has been configured to use OIDC trusted publishing on npm, and successfully forbids the use of any npm tokens whatsoever:
 
 <img width="911" height="915" alt="Image" src="https://github.com/user-attachments/assets/7595a662-8ec1-41bc-aa97-03af3a1b036b" />
