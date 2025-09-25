@@ -3,13 +3,13 @@
   "version": "0.0.3",
   "type": "commonjs",
   "description": "Example of trusted publishing with Lerna-Lite",
-  "homepage": "https://github.com/lerna-lite-test/oidc#readme",
+  "homepage": "https://github.com/Shegox/oidc#readme",
   "bugs": {
-    "url": "https://github.com/lerna-lite-test/oidc/issues"
+    "url": "https://github.com/Shegox/oidc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lerna-lite-test/oidc.git"
+    "url": "git+https://github.com/Shegox/oidc.git"
   },
   "license": "MIT",
   "main": "src/index.js",
