@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-lite-test/oidc",
+  "name": "@shegox-test-org/npm-demo-test",
   "version": "0.0.3",
   "type": "commonjs",
   "description": "Example of trusted publishing with Lerna-Lite",
